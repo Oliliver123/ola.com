@@ -50,7 +50,7 @@
 </head>
 <body>
 
-<h1 id="title">klikk the button</h1>
+<h1 id="title">click the button</h1>
 
 <button id="startBtn">button</button>
 
